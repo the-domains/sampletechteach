@@ -1,0 +1,28 @@
+name: 'Sample, Tech, Teach'
+favicon: null
+layout_spectrum: 0.6340454802848399
+typography_spectrum: 0.8251589424908161
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.1342495980206877
+  lightness: 0.32234167656861246
+  saturation: 0.9125041519291699
+  rhythmicContrast: 0.03506852290593088
+purpose: []
